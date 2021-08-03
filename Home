@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Introduction</title>
-  </head>
-  <body> 
-    <h1 style="text-align: center;">PonyUPS</h1>
-    <p style="text-align: center;">Banks - serve as validators of&nbsp;
-      exchanges of value between participants. </p>
-    <p style="text-align: center;">The Postal Service delivers exchanges of real
-      goods between participants.</p>
-    <p style="text-align: center;">A Postal Bank provides both services to the
-      general public.<br>
-    </p>
-  </body>
+<meta charset="utf-8" />
+<div style="text-align: center;">
+<h1>Ponyups</h1>
+<html>
+<head>
+<meta charset="utf-8" />
+<div style="text-align: center;">
+</head>
+<body>
+a web based 
+Postal Banking/Exchange System 
+<p>
+Owned </p>
+<p>
+and </p>
+<p> Operated by the User</p>
+Just an attempt to see how this works</div>
+</body>
 </html>
